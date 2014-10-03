@@ -1,0 +1,52 @@
+[
+  {
+    "keys": ["ctrl+u", "ctrl+1"],
+    "command": "remove_selection",
+    "args": {
+      "selection": 0
+    }
+  },
+
+  {
+    "keys": ["ctrl+u", "ctrl+2"],
+    "command": "remove_selection",
+    "args": {
+      "selection": 1
+    }
+  },
+
+  {
+    "keys": ["ctrl+u", "ctrl+3"],
+    "command": "remove_selection",
+    "args": {
+      "selection": 2
+    }
+  },
+
+  {
+    "keys": ["ctrl+u", "ctrl+4"],
+    "command": "remove_selection",
+    "args": {
+      "selection": 3
+    }
+  },
+
+  {
+    "keys": ["ctrl+u", "ctrl+5"],
+    "command": "remove_selection",
+    "args": {
+      "selection": 4
+    }
+  },
+
+  {
+    "keys": ["ctrl+alt+shift+x"],
+    "command": "remove_last_selection"
+  },
+
+  {
+    "keys": ["ctrl+escape"],
+    "command": "leave_last_selection"
+  },
+
+]

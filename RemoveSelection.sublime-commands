@@ -1,0 +1,52 @@
+[
+  {
+    "caption": "RemoveSelection: Remove 1st cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 0
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 2nd cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 1
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 3rd cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 2
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 4th cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 3
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 5th cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 4
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove last cursor",
+    "command": "remove_last_selection"
+  },
+
+  {
+    "caption": "RemoveSelection: Leave only last cursor",
+    "command": "leave_last_selection"
+  },
+
+]
