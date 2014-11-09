@@ -5,7 +5,7 @@ Removes specified cursor.
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-remove-selection/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-remove-selection/raw/master/demo/demo.gif "Demo")
 
 ### Installation
 

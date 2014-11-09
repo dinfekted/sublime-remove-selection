@@ -40,6 +40,38 @@
   },
 
   {
+    "caption": "RemoveSelection: Remove 6th cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 5
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 7th cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 6
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 8th cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 7
+    }
+  },
+
+  {
+    "caption": "RemoveSelection: Remove 9th cursor",
+    "command": "remove_selection",
+    "args": {
+      "selection": 8
+    }
+  },
+
+  {
     "caption": "RemoveSelection: Remove last cursor",
     "command": "remove_last_selection"
   },
