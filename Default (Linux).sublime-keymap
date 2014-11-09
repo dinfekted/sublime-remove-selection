@@ -4,7 +4,10 @@
     "command": "remove_selection",
     "args": {
       "selection": 0
-    }
+    },
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
   {
@@ -12,7 +15,10 @@
     "command": "remove_selection",
     "args": {
       "selection": 1
-    }
+    },
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
   {
@@ -20,7 +26,10 @@
     "command": "remove_selection",
     "args": {
       "selection": 2
-    }
+    },
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
   {
@@ -28,7 +37,10 @@
     "command": "remove_selection",
     "args": {
       "selection": 3
-    }
+    },
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
   {
@@ -36,17 +48,26 @@
     "command": "remove_selection",
     "args": {
       "selection": 4
-    }
+    },
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
   {
     "keys": ["ctrl+alt+shift+x"],
-    "command": "remove_last_selection"
+    "command": "remove_last_selection",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
   {
     "keys": ["ctrl+escape"],
-    "command": "leave_last_selection"
+    "command": "leave_last_selection",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true}
+    ]
   },
 
 ]

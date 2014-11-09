@@ -5,7 +5,7 @@ Removes specified cursor.
 
 ### Demo
 
-![Demo](https://github.com/shagabutdinov/sublime-remove-selection/raw/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/remove_selection.gif "Demo")
 
 ### Installation
 
@@ -61,3 +61,8 @@ Example:
 | Remove 5th cursor      | ctrl+u, ctrl+5     | RemoveSelection: Remove 5th cursor      |
 | Remove last cursor     | ctrl+alt+shift+x   | RemoveSelection: Remove last cursor     |
 | Leave only last cursor | ctrl+escape        | RemoveSelection: Leave only last cursor |
+
+
+### Dependencies
+
+None
